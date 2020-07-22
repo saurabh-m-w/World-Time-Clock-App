@@ -1,4 +1,4 @@
-# worldtime
+# World Time Clock Flutter App
 
 A new Flutter application.
 
